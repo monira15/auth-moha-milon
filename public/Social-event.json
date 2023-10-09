@@ -1,0 +1,65 @@
+[
+    {
+      "id": "1",
+      "img": "https://i.ibb.co/bvkJd4f/birthday1.webp",
+      "name": "BirthDay",
+      "short_description": "a memorable birthday bash! 🎉 Enjoy games, treats, and surprises with friends and family. ",
+      "price": "$19.99",
+      "button": "View Details",
+      "description":"A birthday is a significant day in a person's life, commemorating the anniversary of their birth. It is a time for celebration, reflection, and appreciation. People often mark this occasion with various customs and traditions, which can differ from culture to culture.Typically, birthdays involve a special birthday cake adorned with candles, symbolizing the persons age. ",
+      "title":"Celebrating [Age] Years of Joy and Laughter"
+    },
+    {
+      "id": "2",
+      "img": "https://i.ibb.co/1LtrpQY/Anniversaries-3.webp",
+      "name": "Anniversary",
+      "short_description": "we commemorate wonderful years of marriage filled with love, laughter, and lasting memories.",
+      "price": "$29.99",
+      "button": "View Details",
+      "description":"we celebrate a remarkable journey of love, commitment, and companionship. It's been number of years years since we embarked on this incredible adventure, and we want to share the joy with our cherished family and friends. Come and join us for an evening of heartfelt reminiscences, laughter, and love. We'll have delicious food, live music, and plenty of dancing to make this milestone even more memorable. ",
+      "title":"Love Through the Years: [Number] Years of Togetherness"
+      
+    },
+    {
+      "id": "3",
+      "img": "https://i.ibb.co/QNxvt78/Baby-shower1.jpg",
+      "name": "Baby-Shower",
+      "short_description": "Come share the joy as we prepare to welcome a little one into our lives. It's a baby shower filled with love and excitement!",
+      "price": "$14.99",
+      "button": "View Details",
+      "description":"Get ready to celebrate the impending arrival of a precious little one! We're thrilled to invite you to a baby shower in honor of [Parent's Names] and their growing family.Join us for an enchanting afternoon filled with love, laughter, and anticipation. This is a time to shower the parents-to-be with well wishes, thoughtful gifts, and warm blessings as they prepare to welcome their newest family member. ",
+      "title":"A Bundle of Joy: [Parent's Names] Baby Shower"
+      
+    },
+   {
+      "id": "4",
+      "img": "https://i.ibb.co/nch9Gvr/Retirement-Parties-2.jpg",
+      "name": "Retirement",
+      "short_description": " celebrating retirement, Let's raise a toast to a future filled with relaxation, adventures, and endless possibilities!",
+      "price": "$19.99",
+      "button": "View Details",
+      "description":" It's time to bid farewell to the working world and welcome the freedom of retirement for [Retiree's Name]. Join us for a memorable celebration as we honor their dedication and toast to new beginnings.Date: [Date]Time: [Time]Location: [Location]We'll reminisce about [Retiree's Name]'s remarkable career, share stories, and look forward to the adventures that lie ahead.  ",
+      "title":"Retirement Roam: [Retiree's Name] Embarks on a New Journey"
+    },
+    {
+      "id": "5",
+      "img": "https://i.ibb.co/GvT9kTF/engagment33.jpg",
+      "name": "Engagement",
+      "short_description": "Love has found its way, and we're thrilled to announce our engagement! Join us as we begin this beautiful journey towards forever.",
+      "price": "$29.99",
+      "button": "View Details",
+      "description":" We are thrilled to invite you to celebrate a beautiful new chapter in the lives of [Couple's Names]. They have taken the plunge into a lifetime of love and commitment, and we want to share this joyous occasion with you.",
+      "title":"Love's Journey Begins: [Couple's Names] Engagement Party"
+    },
+    {
+      "id": "6",
+      "img": "https://i.ibb.co/ZX5YB2q/wedding33.jpg",
+      "name": "Wedding ",
+      "short_description": "Let us make your dream wedding a reality. Our expert team specializes in crafting moments and flawless celebrations.",
+      "price": "$14.99",
+      "button": "View Details",
+      "description":"Join us in celebrating the union of two hearts and the beginning of a lifelong journey for [Bride's Name] and [Groom's Name].We are delighted to invite you to witness and share in the joy of their love as they exchange vows and become partners for life. This day is a testament to the beautiful love story that has unfolded, and your presence will make it even more memorable. ",
+      "title":" The Wedding of [Bride's Name] and [Groom's Name]"
+    }
+  ]
+  
